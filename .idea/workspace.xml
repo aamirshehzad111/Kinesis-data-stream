@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cb3894aa-53e4-486d-aed2-deb0934771c6" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWSJavaHelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_stream_kensis.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/SampleSingle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/conusmers_rading_shards.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/data_stream_kensis.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SampleSingle$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SampleSingle$SampleRecordProcessor.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SampleSingle$SampleRecordProcessorFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SubscribeToShardSimpleImpl$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SubscribeToShardSimpleImpl$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SubscribeToShardSimpleImpl$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/SubscribeToShardSimpleImpl.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1advhwbgxHP9WbtW3dCOMwZRzLG" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.SubscribeToShardSimpleImpl">
+    <configuration name="GetDataInKinesis" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GetDataInKinesis" />
+      <module name="data_stream_kensis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SampleSingle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SampleSingle" />
+      <module name="data_stream_kensis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubscribeToShardSimpleImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SubscribeToShardSimpleImpl" />
+      <module name="data_stream_kensis" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SubscribeToShardSimpleImpl" />
+        <item itemvalue="Application.SampleSingle" />
+        <item itemvalue="Application.GetDataInKinesis" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb3894aa-53e4-486d-aed2-deb0934771c6" name="Default Changelist" comment="" />
+      <created>1587078407925</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587078407925</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="311" y="58" width="800" height="677" key="#Inspections" timestamp="1587079347865">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="311" y="58" width="800" height="677" key="#Inspections/67.27.1299.741@67.27.1299.741" timestamp="1587079347865" />
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog" timestamp="1587158167689">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="449" y="145" width="524" height="502" key="#com.intellij.refactoring.typeMigration.ui.FailedConversionsDialog/67.27.1299.741@67.27.1299.741" timestamp="1587158167689" />
+    <state width="1253" height="198" key="GridCell.Tab.0.bottom" timestamp="1587180056106">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="198" key="GridCell.Tab.0.bottom/67.27.1299.741@67.27.1299.741" timestamp="1587180056106" />
+    <state width="1253" height="198" key="GridCell.Tab.0.center" timestamp="1587180056105">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="198" key="GridCell.Tab.0.center/67.27.1299.741@67.27.1299.741" timestamp="1587180056105" />
+    <state width="1253" height="198" key="GridCell.Tab.0.left" timestamp="1587180056105">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="198" key="GridCell.Tab.0.left/67.27.1299.741@67.27.1299.741" timestamp="1587180056105" />
+    <state width="1253" height="198" key="GridCell.Tab.0.right" timestamp="1587180056106">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state width="1253" height="198" key="GridCell.Tab.0.right/67.27.1299.741@67.27.1299.741" timestamp="1587180056106" />
+    <state x="299" y="133" width="824" height="526" key="IDE.errors.dialog" timestamp="1587147625753">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="299" y="133" width="824" height="526" key="IDE.errors.dialog/67.27.1299.741@67.27.1299.741" timestamp="1587147625753" />
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog" timestamp="1587148203066">
+      <screen x="67" y="27" width="1299" height="741" />
+    </state>
+    <state x="249" y="54" width="924" height="684" key="Maven.ArtifactSearchDialog/67.27.1299.741@67.27.1299.741" timestamp="1587148203066" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/main/java/conusmers_rading_shards.java</url>
+          <line>38</line>
+          <properties class="SubscribeToShardSimpleImpl" method="SubscribeToShards">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
